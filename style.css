@@ -1,1 +1,8 @@
 /* YOUR STYLES HERE */
+.subHeadingStyle{
+    background-color: #1d2531;
+    color: #ffdb6d;
+    text-align: center;
+    border: 3px #ffdb6d solid;
+    padding: 1rem;
+}
